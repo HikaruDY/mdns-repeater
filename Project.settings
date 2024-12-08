@@ -1,0 +1,4 @@
+# DESLinux app project settings
+
+NAME=mdns-repeater
+VER=1.0.0
